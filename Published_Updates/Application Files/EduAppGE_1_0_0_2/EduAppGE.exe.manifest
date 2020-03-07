@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="EduAppGE.exe" version="1.0.0.2" publicKeyToken="c54ee792a5706d32" language="neutral" processorArchitecture="amd64" type="win32" />
+  <asmv1:assemblyIdentity name="EduAppGE.exe" version="1.0.0.2" publicKeyToken="c54ee792a5706d32" language="neutral" processorArchitecture="x86" type="win32" />
   <description asmv2:iconFile="Logo_SEFTEG.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="EduAppGE" version="1.0.0.1" language="neutral" processorArchitecture="amd64" />
+    <assemblyIdentity name="EduAppGE" version="1.0.0.1" language="neutral" processorArchitecture="x86" />
     <commandLine file="EduAppGE.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -2371,62 +2371,62 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EduAppGE.exe" size="19660736">
-      <assemblyIdentity name="EduAppGE" version="1.0.0.1" language="neutral" processorArchitecture="amd64" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EduAppGE.exe" size="19507136">
+      <assemblyIdentity name="EduAppGE" version="1.0.0.1" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>UrDMCG1/Z7ufUoivSuyrh6kN3NJv2SvyU46yOOqEdXI=</dsig:DigestValue>
+        <dsig:DigestValue>lZE9BmaYeGZzMXV4j7m7cX2H/pz/Qf8LvYT7kK7Jln4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="aa-ET\EduAppGE.resources.dll" size="30208">
-      <assemblyIdentity name="EduAppGE.resources" version="1.0.0.1" language="aa-ET" processorArchitecture="amd64" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="aa-ET\EduAppGE.resources.dll" size="31232">
+      <assemblyIdentity name="EduAppGE.resources" version="1.0.0.1" language="aa-ET" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>N/cq3MxvG2A4pXJnccP9fBXPtC7ZL5UoPm7SSZ7oenE=</dsig:DigestValue>
+        <dsig:DigestValue>iqtYv+J+j2hrRzTeK7WushJewd/zJ4sXPdMAcFcmZV0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pt\EduAppGE.resources.dll" size="35328">
-      <assemblyIdentity name="EduAppGE.resources" version="1.0.0.1" language="pt" processorArchitecture="amd64" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pt\EduAppGE.resources.dll" size="35840">
+      <assemblyIdentity name="EduAppGE.resources" version="1.0.0.1" language="pt" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Trg+8S6xzSi8IMLSjUHNyhgXGVC4lLMFl5G6okjZ9EU=</dsig:DigestValue>
+        <dsig:DigestValue>CK81r1TIo434gyMsew4lvN8hnem9+TSF5GgLB6gN63w=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pt-BR\EduAppGE.resources.dll" size="29696">
-      <assemblyIdentity name="EduAppGE.resources" version="1.0.0.1" language="pt-BR" processorArchitecture="amd64" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pt-BR\EduAppGE.resources.dll" size="30208">
+      <assemblyIdentity name="EduAppGE.resources" version="1.0.0.1" language="pt-BR" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>YgtqDbyu0AQoyWCjjpCHFr6bBaAJW1zP44lyVYPWSPY=</dsig:DigestValue>
+        <dsig:DigestValue>3otCge5p8zsaV9peytz3XnX3j8nPsA1FjfdcV+CpSr0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pt-PT\EduAppGE.resources.dll" size="332288">
-      <assemblyIdentity name="EduAppGE.resources" version="1.0.0.1" language="pt-PT" processorArchitecture="amd64" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pt-PT\EduAppGE.resources.dll" size="333312">
+      <assemblyIdentity name="EduAppGE.resources" version="1.0.0.1" language="pt-PT" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>CdyIgd0OvcBxCDFa+s4L1bZY266Tj0iKkktpj0Bg7v8=</dsig:DigestValue>
+        <dsig:DigestValue>DDUxIz/lQ8sY52afnrha4AE9V3ZHpMhWaiLDIYiCXms=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -2611,6 +2611,18 @@
     </dependentAssembly>
   </dependency>
   <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TouchlessLib.dll" size="25088">
+      <assemblyIdentity name="TouchlessLib" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Glkt55R9SHK2AkwmAJdKNGzy8Kkr9N0F5XZLoCljQ8w=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Tulpep.NotificationWindow.dll" size="29184">
       <assemblyIdentity name="Tulpep.NotificationWindow" version="1.1.25.0" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -2668,4 +2680,4 @@
       <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
     </application>
   </compatibility>
-<publisherIdentity name="CN=LAPTOP-ULV4D33M\felix" issuerKeyHash="317ae4edf8070eaa6216e835c1643df1a9b2e983" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>sUcQqD3826wswp8m1Je0zWt7U04=</DigestValue></Reference></SignedInfo><SignatureValue>idNXv45aFXPRMEIcbP/k0XVVY79XsN4nmymcDR6q56wXVISlfrWbjCTZbbQkQLsIGjLeubzQeqZ1hxLqRV92oEjZyhhqKSO3jGIJaT5MKaMcy59XlP3m/4P2nng0yhlc+aIQi1c1MAyTyp+Z4HQFQzj/azYgN01TKaM/5JrsBt4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>nhLppDopvLkppum/f1O1ImiXU9IjhLuAS1nAJy7u9ECOzRxlTwRhrMOXQXx2wSV53TqsT5fGqozWsGfWFzfVAYRbOMpeyYNJChw/wChLzjUrHkLqfK9sTR/UK8g82sTDz38IxJii1gLFcIac/XN3hrpYKeLYmANokeeG8KDbiWU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="4e537b6bcdb497d4269fc22cacdbfc3da81047b1" Description="" Url=""><as:assemblyIdentity name="EduAppGE.exe" version="1.0.0.2" publicKeyToken="c54ee792a5706d32" language="neutral" processorArchitecture="amd64" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-ULV4D33M\felix</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>c4JWGiF7FJvWOQehrIAOmPOHZyQ=</DigestValue></Reference></SignedInfo><SignatureValue>ZqPVZIPzav/5BgI8O7FNGiLF4BLGOdEIszlC/jvAIRw2USkV/4rupc060G0Fxtwlo/jqcEmeaLVmg2cwCDzK1YQoXsUheznq1Vl7JX+1JmZHgnuQfZl1WfZ/7S0abUIPsq7ls5XlBwKG8AYZA/22Z8bgY9Y7sIoPRHKgFBH8pWE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>nhLppDopvLkppum/f1O1ImiXU9IjhLuAS1nAJy7u9ECOzRxlTwRhrMOXQXx2wSV53TqsT5fGqozWsGfWFzfVAYRbOMpeyYNJChw/wChLzjUrHkLqfK9sTR/UK8g82sTDz38IxJii1gLFcIac/XN3hrpYKeLYmANokeeG8KDbiWU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQGSQr0BwcRIFBOSs3RCF1nDANBgkqhkiG9w0BAQUFADA1MTMwMQYDVQQDHioATABBAFAAVABPAFAALQBVAEwAVgA0AEQAMwAzAE0AXABmAGUAbABpAHgwHhcNMTkxMTI5MTg1MzA2WhcNMjAxMTI5MDA1MzA2WjA1MTMwMQYDVQQDHioATABBAFAAVABPAFAALQBVAEwAVgA0AEQAMwAzAE0AXABmAGUAbABpAHgwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJ4S6aQ6Kby5Kabpv39TtSJol1PSI4S7gEtZwCcu7vRAjs0cZU8EYazDl0F8dsEled06rE+XxqqM1rBn1hc31QGEWzjKXsmDSQocP8AoS841Kx5C6nyvbE0f1CvIPNrEw89/CMSYotYCxXCGnP1zd4a6WCni2JgDaJHnhvCg24llAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAOjB/UuwfZpw1Dy5gaOCwp9L/Fcj/0l7QpzxXxnRtW1u+p1NVlAxN7lo2GlNG73K7OAtve6Rdoorc+zk+zkCgJqgudhilEdReYedfOLY5JlaFBTvdTVG5UlBSOMq/5EEEmFqC5f75+Xdw5ybFHNWTKWKIDXqxWAxxELsMrtBYqLE=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
+<publisherIdentity name="CN=LAPTOP-ULV4D33M\felix" issuerKeyHash="317ae4edf8070eaa6216e835c1643df1a9b2e983" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>b9nFjDZqi4mjfU6RRaddivmfw34=</DigestValue></Reference></SignedInfo><SignatureValue>CxVrwClyQYPku4q1skIybAMm8Cvss+F9u9sWUAAuNjtak33Rua2LbTy9yv0Y6t5m4DVoXWIJ9q2sIe54NAZYeUnfFxAxl2nbWhSG9J0N1HLwyt/FOG40zWxGQhPgyW2/2f/G5OrgZRdkg5Ke5MqsOpXMQ1W3bqbi/2b9JesonUM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>nhLppDopvLkppum/f1O1ImiXU9IjhLuAS1nAJy7u9ECOzRxlTwRhrMOXQXx2wSV53TqsT5fGqozWsGfWFzfVAYRbOMpeyYNJChw/wChLzjUrHkLqfK9sTR/UK8g82sTDz38IxJii1gLFcIac/XN3hrpYKeLYmANokeeG8KDbiWU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="7ec39ff98a5da745914e7da3898b6a368cc5d96f" Description="" Url=""><as:assemblyIdentity name="EduAppGE.exe" version="1.0.0.2" publicKeyToken="c54ee792a5706d32" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-ULV4D33M\felix</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>0jtT2Ze6664dwetMcdV2+5kHW70=</DigestValue></Reference></SignedInfo><SignatureValue>I3Is/RMkS6+uZoZiAH/2AxMrjVKKpEAofye3oSMn3TrkX2vRPFNdA1/4LSZXZutqCEhBAvHnnFlVN45/Tsr/sIExPPXQ4dM73ZYnU+6ZoUyEQPcFScXqfTrffhB2QT8jdu90WTficfAMpUW6i2BhJqZNKu3Mp+0lsNsc+glF7CU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>nhLppDopvLkppum/f1O1ImiXU9IjhLuAS1nAJy7u9ECOzRxlTwRhrMOXQXx2wSV53TqsT5fGqozWsGfWFzfVAYRbOMpeyYNJChw/wChLzjUrHkLqfK9sTR/UK8g82sTDz38IxJii1gLFcIac/XN3hrpYKeLYmANokeeG8KDbiWU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQGSQr0BwcRIFBOSs3RCF1nDANBgkqhkiG9w0BAQUFADA1MTMwMQYDVQQDHioATABBAFAAVABPAFAALQBVAEwAVgA0AEQAMwAzAE0AXABmAGUAbABpAHgwHhcNMTkxMTI5MTg1MzA2WhcNMjAxMTI5MDA1MzA2WjA1MTMwMQYDVQQDHioATABBAFAAVABPAFAALQBVAEwAVgA0AEQAMwAzAE0AXABmAGUAbABpAHgwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJ4S6aQ6Kby5Kabpv39TtSJol1PSI4S7gEtZwCcu7vRAjs0cZU8EYazDl0F8dsEled06rE+XxqqM1rBn1hc31QGEWzjKXsmDSQocP8AoS841Kx5C6nyvbE0f1CvIPNrEw89/CMSYotYCxXCGnP1zd4a6WCni2JgDaJHnhvCg24llAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAOjB/UuwfZpw1Dy5gaOCwp9L/Fcj/0l7QpzxXxnRtW1u+p1NVlAxN7lo2GlNG73K7OAtve6Rdoorc+zk+zkCgJqgudhilEdReYedfOLY5JlaFBTvdTVG5UlBSOMq/5EEEmFqC5f75+Xdw5ybFHNWTKWKIDXqxWAxxELsMrtBYqLE=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
